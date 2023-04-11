@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.util.Log;
 import android.widget.EditText;
 import android.widget.TextView;
 
@@ -23,6 +24,8 @@ public class MainActivity extends AppCompatActivity {
         name.setText(intent.getStringExtra("name"));
         email.setText(intent.getStringExtra("email"));
         pass.setText(intent.getStringExtra("pass"));
+
+        Log.d("l",email.getText().toString());
 
 
 
