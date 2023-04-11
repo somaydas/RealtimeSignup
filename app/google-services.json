@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "581603749373",
+    "project_id": "realtimesignup-aeeeb",
+    "storage_bucket": "realtimesignup-aeeeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581603749373:android:9fb3e11eb08222e6807d94",
+        "android_client_info": {
+          "package_name": "com.example.realtimesignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581603749373-jjp8290ub4nj1ti8dnn0mvja85p5bont.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoQciQ16sj-6JZL4bpzYeF6YTkoOTeCIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581603749373-jjp8290ub4nj1ti8dnn0mvja85p5bont.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
